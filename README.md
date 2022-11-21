@@ -10,7 +10,8 @@
 - **Name:** Undisclosed
 - **Alias:** Yuma, V37R1X
 - **Age:** 18
-- **Hobbies:** Drawing, Hacking, Coding 
+- **Hobbies:** Drawing, Hacking, Coding
+- **Personality:** INTJ-T 5w4 584 sp/sx RLOEI ILI Melancholic-Choleric LVFE
 
 ### <samp> I am a/an: </samp>
 - Ethical Hacker/Pentester
