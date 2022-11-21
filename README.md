@@ -16,15 +16,18 @@
 ### <samp> I am a/an: </samp>
 - Ethical Hacker/Pentester
 - CTF Player
-- Team Leader --> 
+- Team Leader --> [7h3B14ckKn1gh75](https://app.hackthebox.com/teams/overview/3804)
 - Web Developer
 
 ## <samp> CTFs: </samp>
 
 ### <samp> HackTheBox </samp>
-- **Team:**
+- **Team:** [7h3B14ckKn1gh75](https://app.hackthebox.com/teams/overview/3804)
   - **Captain:** True
-- **HTB Profile:**
+  - **Developmental Zone:** [7h3-B14ck-Kn1gh75](https://github.com/7h3-B14ck-Kn1gh75/)
+ 
+- **HTB Profile:** [V37R1X](https://app.hackthebox.com/profile/496941)
+
 
 ## <samp> Languages and Tools: </samp>
 
