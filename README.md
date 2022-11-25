@@ -55,6 +55,10 @@
 
 ## <samp> Send me 💜: </samp>
 
+![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)  `bc1quhqt2gfjwjwvej85szkvjhcpherktz0zj08wyu`
+<br>
+![ETH](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white) `0x73736F2cAA9128De3B6cE70aAFF7aFbCe2907d4D`
+
 <pre align="center">
 ❀ <a href="https://github.com/Yuma-Tsushima07/Yuma-Tsushima/edit/main/README.md#-hello-everyone-">BACK TO TOP</a> ❀
 </pre>
