@@ -28,6 +28,9 @@
  
 - **HTB Profile:** [V37R1X](https://app.hackthebox.com/profile/496941)
 
+## <samp> Coding: </samp>
+- **CodeWars:** [Codewars](https://www.codewars.com/users/V37R1X)
+- **LeetCode:** [LeetCode](https://leetcode.com/Yuma-Tsushima07/)
 
 ## <samp> Languages and Tools: </samp>
 <p align="left">
