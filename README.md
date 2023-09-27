@@ -11,7 +11,7 @@
 ## <samp> About Me: </samp>
 - **Name:** Undisclosed
 - **Alias:** Yuma, V37R1X
-- **Age:** 18
+- **Age:** 19
 - **Hobbies:** Drawing, Hacking, Coding
 - **Personality:** INTJ-T 5w4 584 sp/sx RLOEI ILI Melancholic-Choleric LVFE
 
